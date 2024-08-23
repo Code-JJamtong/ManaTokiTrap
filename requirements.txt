@@ -1,0 +1,6 @@
+tqdm
+nodriver
+requests
+aiohttp
+beautifulsoup4
+pillow
